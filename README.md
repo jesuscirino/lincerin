@@ -1,0 +1,2 @@
+# lincerin
+a discord bot
